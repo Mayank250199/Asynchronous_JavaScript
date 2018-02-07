@@ -12,10 +12,10 @@ It won't interrupt any other code that's currently running.
 
 # Ready State
 
-0 - Request is not intialized.
-1 - Request has been setup.
-2 - Request is send.
-3 - Request is in progress.
+0 - Request is not intialized._
+1 - Request has been setup._
+2 - Request is send._
+3 - Request is in progress._
 4 - Request is complete.
 
 # Ajax
