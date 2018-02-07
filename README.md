@@ -31,5 +31,7 @@ The caveat being that the actual data is not available yet.
 It will become available when the request completes and a response comes back from the web service. In the meantime the Promise object acts like a proxy to the actual data. 
 Furthermore, you can attach callbacks to the Promise object which will be called once the actual data is available.
 
-
+# Generator
+Generators are functions which can be exited and later re-entered. 
+Their context (variable bindings) will be saved across re-entrances.
 
