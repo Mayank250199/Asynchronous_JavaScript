@@ -12,7 +12,7 @@ It won't interrupt any other code that's currently running.
 
 # Ready State
 
-0 - Request is not intialized._
+0 - Request is not intialized. _
 1 - Request has been setup._
 2 - Request is send._
 3 - Request is in progress._
