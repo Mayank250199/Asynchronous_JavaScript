@@ -35,3 +35,5 @@ Furthermore, you can attach callbacks to the Promise object which will be called
 Generators are functions which can be exited and later re-entered. 
 Their context (variable bindings) will be saved across re-entrances.
 
+# To Run
+Serve index.html
